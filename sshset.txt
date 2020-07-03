@@ -1,0 +1,27 @@
+(base) LeideMacBook-Air:~ leiyu$ ssh-keygen -t rsa -C 172152716@qq.com
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/leiyu/.ssh/id_rsa): 
+Created directory '/Users/leiyu/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/leiyu/.ssh/id_rsa.
+Your public key has been saved in /Users/leiyu/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:5xf+7oNoDEIm3lucALAm3PDbu1hPogPLn8101HqHvAY 172152716@qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+| ...             |
+|. +..            |
+|..oo .           |
+| o  + + .        |
+|   o * +So. .    |
+| .  . =EBo.. .   |
+|. o  = B.*.oo.   |
+| o .O B ..*....  |
+|  .=.+ ..o   o+. |
++----[SHA256]-----+
+
+
+
+
+password 
